@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/apache-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/appengine-api-1.0-sdk-1.9.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/user/Desktop/3.2.1/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/appengine-endpoints.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/appengine-endpoints-deps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/appengine-jsr107cache-1.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/asm-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-codec-1.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-codec-1.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-codec-1.8-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-codec-1.8-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-logging-1.0.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-logging-1.1.1(1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/datanucleus-api-jdo-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/datanucleus-api-jpa-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/datanucleus-appengine-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/datanucleus-core-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/geronimo-jpa_2.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/gmultipart-0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/gson-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/itextpdf-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/itextpdf-5.4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/itextpdf-5.4.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/jdbc-mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/jdo-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/jetty-util-6.1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/json-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/jsr107cache-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/junit-4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/mysql-connector-java-5.1.24-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/org.apache.commons.fileupload.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/slf4j-nop-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/spring-aop-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/spring-beans-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/spring-context-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/spring-core-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/spring-expression-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/spring-web-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/spring-webmvc-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_45"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/jackson-annotations-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/jackson-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/3.2.1/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
